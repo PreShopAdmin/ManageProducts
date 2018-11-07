@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Store/Master.Master" AutoEventWireup="true" CodeBehind="AddBrand.aspx.cs" Inherits="PreShop.ManageProducts.Store.AddBrand" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Store/Master.Master" AutoEventWireup="true" CodeBehind="~/Store/AddCompany.aspx.cs" Inherits="PreShop.ManageProducts.Store.AddBrand" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
